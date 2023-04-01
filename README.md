@@ -2,8 +2,8 @@
 
 [![NPM version](https://img.shields.io/npm/v/aws-sdk.svg)](https://www.npmjs.com/package/@raghava_rdy/rlog)
 
-## Version 1.0.1 Now Available
-The [version 1.0.1](https://github.com/raghavared/rlog) of the rLog JavaScript is generally available.
+## Version 1.0.2 Now Available
+The [version 1.0.2](https://github.com/raghavared/rlog) of the rLog JavaScript is generally available.
 
 ### Table of Contents:
 * [Getting Started](#getting-Started)
