@@ -47,9 +47,11 @@ rLog(data_to_print)
 rLog(data_to_print)
 ```
 #### sample output
-```2023-04-01T10:06:12.794Z :: hello welcome, here is the sample date to print```
-```2023-04-01T10:06:12.794Z :: hello welcome, here is the sample date to print```
-```2023-04-01T10:06:12.794Z :: hello welcome, here is the sample date to print```
+`2023-04-01T10:06:12.794Z :: hello welcome, here is the sample date to print`
+
+`2023-04-01T10:06:12.794Z :: hello welcome, here is the sample date to print`
+
+`2023-04-01T10:06:12.794Z :: hello welcome, here is the sample date to print`
 
 
 ### Contributing
