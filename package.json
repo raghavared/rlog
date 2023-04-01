@@ -11,7 +11,11 @@
     "url": "git+https://github.com/raghavared/rlog.git"
   },
   "keywords": [
-    "rlog"
+    "rlog",
+    "logging",
+    "logger",
+    "s3",
+    "logs"
   ],
   "author": "Raghava Reddy",
   "license": "ISC",
