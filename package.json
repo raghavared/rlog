@@ -1,6 +1,6 @@
 {
   "name": "@raghava_rdy/rlog",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "it's a customised logging format ",
   "main": "index.js",
   "scripts": {
