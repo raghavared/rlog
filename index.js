@@ -2,8 +2,9 @@ const fs = require('fs');
 const cron = require('node-cron');
 const { S3 } = require('aws-sdk')
 
-const rLog = (log_data) => {
-
+const rLog = (...args) => {
+    let log_data = "";
+    for (const key of args) log_data += (typeof key === "object") ? JSON.stringify(key) : key;
     let date = new Date();
     let dataToPrint = log_data
     /**
